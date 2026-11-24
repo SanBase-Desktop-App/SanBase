@@ -31,9 +31,6 @@ With Sanbase, users gain access to highly customizable dashboards that combine p
 
 Sanbase goes beyond standard analytics by offering automated alerts for unusual market activity, rapid price shifts, and sudden changes in sentiment. Users can track portfolios across multiple exchanges, evaluate historical trends, and compare token performance, all within a single, secure environment. Whether it’s for research, portfolio management, or strategic trading, Sanbase equips users with the tools to navigate the crypto ecosystem efficiently and confidently.  
 
----
-
-![Sanbase Dashboard](https://santiment.net/static/sanbase-5267d6dbe2ec8569efc88b3a040ec292.png)  
 
 ---
 
